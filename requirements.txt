@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+os
+csv
+kbcstorage
+ydata_profiling
+xgboost
+h2o
