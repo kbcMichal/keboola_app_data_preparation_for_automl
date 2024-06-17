@@ -27,5 +27,5 @@ pip3 install -r requirements.txt
 
 5. Run the app
 ```bash
-streamlit run app/migrate.py
+streamlit run data_preparation_app.py
 ```
